@@ -4,6 +4,8 @@
 *.jar
 *.war
 *.ear
-.svn/
-.settings/
-target/
+.svn
+.settings
+target
+*.iml
+.idea
